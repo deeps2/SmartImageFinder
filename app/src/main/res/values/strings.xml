@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SmartImageFinder</string>
+    <string name="search_hint">&#160;&#160;Search</string>
+    <string name="no_results_found">Sorry! No Results Found</string>
+    <string name="no_internet_msg">Oops! No Internet or weak connection. Please connect to internet and search again.</string>
+    <string name="generic_error_msg">An Unexpected Error has occurred. Please try later</string>
+</resources>
