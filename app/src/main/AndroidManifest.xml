@@ -15,7 +15,7 @@
         tools:ignore="AllowBackup,GoogleAppIndexingWarning">
 
         <activity
-            android:name=".splash.views.SplashActivity"
+            android:name=".views.SplashActivity"
             android:launchMode="singleTask"
             android:screenOrientation="portrait"
             android:theme="@style/SplashTheme">
@@ -26,13 +26,12 @@
         </activity>
 
         <activity
-            android:name=".search.views.SearchActivity"
+            android:name=".views.SearchActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme" />
 
-
         <activity
-            android:name=".searchdetail.views.SearchDetailActivity"
+            android:name=".views.SearchDetailActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme" />
 

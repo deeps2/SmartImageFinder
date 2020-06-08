@@ -4,4 +4,8 @@
     <string name="no_results_found">Sorry! No Results Found</string>
     <string name="no_internet_msg">Oops! No Internet or weak connection. Please connect to internet and search again.</string>
     <string name="generic_error_msg">An Unexpected Error has occurred. Please try later</string>
+    <string name="transition_name">clicked_image</string>
+    <string name="menu_item_two_column">2 Column</string>
+    <string name="menu_item_three_column">3 Column</string>
+    <string name="menu_item_four_column">4 Column</string>
 </resources>

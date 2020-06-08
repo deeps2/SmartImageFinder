@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/two_column"
+            android:title="@string/menu_item_two_column"
+            android:checked="true"/>
+        <item
+            android:id="@+id/three_column"
+            android:title="@string/menu_item_three_column" />
+        <item
+            android:id="@+id/four_column"
+            android:title="@string/menu_item_four_column" />
+    </group>
+</menu>
