@@ -10,13 +10,13 @@ APK: https://drive.google.com/file/d/1CCN1U5mLpY0tt0Ki9FbE6FqNXismlUa_/view?usp=
 <img src="https://res.cloudinary.com/deeps2/image/upload/v1566728957/rheo_photos/no_net.png" width=280/>
 <img src="https://res.cloudinary.com/deeps2/image/upload/v1566728958/rheo_photos/no_results.png" width=280/>&nbsp;&nbsp; 
 <img src="https://res.cloudinary.com/deeps2/image/upload/v1566728957/rheo_photos/generic_error.png" width=280/></br></br></br></br>
-<img src="https://res.cloudinary.com/deeps2/image/upload/v1591585495/rheo_photos/transition_2.gif"/>
+<img src="https://res.cloudinary.com/deeps2/w_280/v1591585495/rheo_photos/transition_2.gif"/>
 
 # Features
 - Search images by entering the keywork (uses Microsoft Azure Congitive Services Bing Image Search API)
 - Supports pagination (fetch results in group of 20)
-- Stores previous search results into SQLite using Room ORM. 
-- Thus if a search result exist it can be fetched from local DB. No need of network connection in this case.
+- Caching: Stores previous search results into SQLite using Room ORM. 
+- So, if a search result exists, it can be fetched from local DB. No need to re-hit the API.
 - After MAX_ROWS limit is reached, oldest record will be deleted. Otherwise App's cache size will go on increasing.
 - API keys are stored natively (JNI) rather than hardcoding it in a constant in java file.
 - Grid size can be changed (2 column, 3 column, 4 column)
