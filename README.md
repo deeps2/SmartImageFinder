@@ -8,7 +8,6 @@ APK: https://drive.google.com/file/d/1CCN1U5mLpY0tt0Ki9FbE6FqNXismlUa_/view?usp=
 <img src="https://res.cloudinary.com/deeps2/image/upload/v1591584723/rheo_photos/four_col.png" width=280/></br></br></br></br>
 <img src="https://res.cloudinary.com/deeps2/image/upload/v1566728957/rheo_photos/no_net.png" width=280/>
 <img src="https://res.cloudinary.com/deeps2/image/upload/v1566728958/rheo_photos/no_results.png" width=280/>&nbsp;&nbsp; 
-<img src="https://res.cloudinary.com/deeps2/image/upload/v1566728957/rheo_photos/generic_error.png" width=280/></br></br></br></br>
 <img src="https://res.cloudinary.com/deeps2/w_280/v1591585495/rheo_photos/transition_2.gif"/>
 
 # Features
